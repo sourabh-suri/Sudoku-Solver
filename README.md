@@ -25,8 +25,7 @@ repeated until the allowed value in the last (81st) cell is a valid guess.
 Hardest Sudoku: A typical example to run comparative study,
 
 
-Refernce: https://www.telegraph.co.uk/news/science/science-
-news/9359579/Worlds-hardest-sudoku-can-you-crack-it.html
+Refernce: https://www.telegraph.co.uk/news/science/science-news/9359579/Worlds-hardest-sudoku-can-you-crack-it.html
 
 A simple C code is writen to solve sudoku using basic Backtraking problems. A recurisive
 function is defined which stacks up untill an end condtion is met. Thus, assigning numbers
